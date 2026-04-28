@@ -1,5 +1,9 @@
 # quant-rollout
 
+[![PyPI](https://img.shields.io/pypi/v/quant-rollout.svg)](https://pypi.org/project/quant-rollout/)
+[![Python](https://img.shields.io/pypi/pyversions/quant-rollout.svg)](https://pypi.org/project/quant-rollout/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 **Staged-deployment toolkit for live trading bots — gates, kill switch, veto window, persistent state machine.**
 
 You changed a bot parameter. Did it actually help, or are you about to lose money? `quant-rollout` gives you the same canary → 10% → 50% → 100% rollout pattern that web teams use for product changes — adapted for trading bots, with a kill switch that auto-reverts on losing streaks.
