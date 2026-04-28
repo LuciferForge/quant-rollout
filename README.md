@@ -201,7 +201,7 @@ MIT.
 
 ## About the author
 
-Built by [LuciferForge](https://github.com/LuciferForge), running a [public-audited Polymarket trading bot](https://github.com/LuciferForge/polymarket-crash-bot) (302 closed trades, 79.8% WR). I extracted this from the bot's own `stage_tracker` engine after running 3 successful parameter rollouts in 14 days. Other projects:
+Built by [LuciferForge](https://github.com/LuciferForge), running a [public-audited Polymarket trading bot](https://github.com/LuciferForge/polymarket-crash-bot) (308 closed trades, 80.2% WR). I extracted this from the bot's own `stage_tracker` engine after running 3 successful parameter rollouts in 14 days. Other projects:
 - [polymarket-mcp](https://github.com/LuciferForge/polymarket-mcp) — MCP server for Polymarket
 - [pnl-truthteller](https://github.com/LuciferForge/pnl-truthteller) — slippage audit tool
 - [cross-signal-data](https://github.com/LuciferForge/cross-signal-data) — labeled crash-recovery dataset
